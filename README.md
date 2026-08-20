@@ -3,8 +3,8 @@
 Backend Developer focused on Python, FastAPI, and building clean REST APIs.
 
 ### 🛠 Tech Stack
-- **Languages:** Python, C++, SQL
-- **Frameworks:** FastAPI, Pydantic, SQLAlchemy
+- **Languages:** Python, C++
+- **Frameworks:** FastAPI
 - **Databases:** PostgreSQL, MySQL, Redis
 
 ### 🚀 Key Projects
