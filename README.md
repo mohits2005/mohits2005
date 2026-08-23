@@ -1,15 +1,4 @@
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=200&section=header&text=Mohit%20Sharma&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Python%20%7C%20FastAPI%20%7C%20Backend%20Developer&descAlignY=58&descSize=18" width="100%"/>
-
-</div>
-
-<h1 align="center">Hi 👋, I'm Mohit Sharma</h1>
-<h3 align="center">A Python Developer building RESTful APIs with FastAPI</h3>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mohits2005&label=Profile%20views&color=2C5364&style=flat" alt="mohits2005" />
-</p>
+<div align="center"> <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:1a1a2e&height=180&section=header&text=MOHIT%20SHARMA&fontSize=48&fontColor=00F5D4&fontAlignY=40&desc=BACKEND%20DEVELOPER%20%7C%20PYTHON%20%2F%20FASTAPI&descAlignY=65&descSize=16&descAlign=50" width="100%"/> <br/> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=800&color=00F5D4&center=true&vCenter=true&width=600&lines=Building+RESTful+APIs+with+FastAPI;PostgreSQL+%7C+SQLAlchemy+%7C+Redis+%7C+JWT;Turning+ideas+into+scalable+backends" alt="Typing SVG" /> </div> <h1 align="center">Hi 👋, I'm Mohit Sharma</h1> <h3 align="center">A Python Developer building RESTful APIs with FastAPI</h3> <p align="center"> <img src="https://komarev.com/ghpvc/?username=mohits2005&label=Profile%20views&color=2C5364&style=flat" alt="mohits2005" /> </p>
 
 - 🎓 Bachelor of Computer Applications @ **Chandigarh University, Mohali** (2023 – 2026)
 - 🛠️ I build **RESTful APIs** with **FastAPI, SQLAlchemy, PostgreSQL, Redis & JWT**
